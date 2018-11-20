@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       MainWP Customisations
  * Plugin URI:        https://mainwp.com
- * Description:       The purpose of this pulugin is to contain your customisation snippets for the MainWP Dashboard plugin, in order to avoid creting a custom extensions or using the functions.php file of your theeme. This plugi will help you to keep all your changes in one location and independent of the other components. This will enable you to safly updates of your plugins and themes without of worry of losing your modifications as well as deactivating your customizations if needed for troubleshooting.
+ * Description:       The purpose of this plugin is to contain your customisation snippets for the MainWP Dashboard plugin, in order to avoid creating a custom extension or using the functions.php file of your theme. This plugin will help you to keep all your changes in one location and independent of the other components. This will enable you to safely updates of your plugins and themes without of worry of losing your modifications as well as deactivating your customizations if needed for troubleshooting.
  * Version:           1.0
  * Author:            MainWP
  * Author URI:        https://maiwnp.com/
